@@ -53,7 +53,10 @@ For Hardware:
 ### Implementation
 For Software:Frontend implementation
           .HTML,CSS,JavaScript
-          .homepage
+          .homepage-"get started" button
+          .expense logger-form to enter
+          .graph and status-weekly spending insights
+          .gamification-streaks
 # Installation
 [commands]
 
@@ -62,6 +65,12 @@ For Software:Frontend implementation
 
 ### Project Documentation
 For Software:
+         project Title
+    expense logger- A smart expense tracking web App
+          Project Description
+    the expense logger is a web-based application that helps users track their daily expenses,visualize spending patterns,and maintain a logging streak. it features streak rewards and weekly based graph chart.
+          Introduction
+    the expense logger was designed to help individuals keep track of their daily expenses efficiently.The app
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
@@ -108,9 +117,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [fathiman shaji]: [Specific contributions]
-- [Archana V]: [Specific contributions]
-- [Risvana Nasrin C V]: [Specific contributions]
+- [Fathiman Shaji]: [presented the project]
+- [Archana V]: [idea generation ]
+- [Risvana Nasrin C V]: [helped in creating the code]
 
 ---
 Made with ❤️ at TinkerHub
