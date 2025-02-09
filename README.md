@@ -25,7 +25,6 @@ https://desire-6o2r.vercel.app/
  .users can analyze trends and control unnecessary expenses.
 4.customization options
  .users can choose background colors to personalize their experience
-
 ### The Problem statement
 leading to poor financial tracking and overspending.
 users don't feel rewarded for tracking expenses.
