@@ -14,21 +14,37 @@
 https://desire-6o2r.vercel.app/
 
 ### Project Description
-[2-3 lines about what your project does]
+1.Expense logging system
+ .user can log expenses daily with name,amount,and date.
+ .local storage
+ .calender picker allows users to select a date.
+2.streak based tracking system
+ .if they miss a day, their streak resets.
+ .if users log an expense daily,their streak count increases
+3.data visualization with graph
+ .compares weekly expenses
+ .users can analyze trends and control unnecessary expenses.
+4.customization options
+ .users can choose background colors to personalize their experience
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+leading to poor financial tracking and overspending.
+users don't feel rewarded for tracking expenses.
+no one uses the app continously.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+streak based motivation system
+ .daily streaks encourage users to log expenses every day
+if a user skips a day,their streak resets, pushing them them to stay consistent.
+personalized and engagement
+.users can customize the background color to make the experience more enjoyable.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML,CSS,JavaScript
+- chart.js
+- local storage
 
 For Hardware:
 - [List main components]
@@ -36,7 +52,9 @@ For Hardware:
 - [List tools required]
 
 ### Implementation
-For Software:
+For Software:Frontend implementation
+          .HTML,CSS,JavaScript
+          .homepage
 # Installation
 [commands]
 
@@ -91,9 +109,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [fathiman shaji]: [Specific contributions]
+- [Archana V]: [Specific contributions]
+- [Risvana Nasrin C V]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub
