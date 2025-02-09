@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expense Tracker</title>
+    <link rel="stylesheet" href="desire.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <!-- Background Color Selector -->
+    <div class="color-selector">
+        <label for="bgColor">Choose Background:</label>
+        <select id="bgColor" onchange="changeBackgroundColor()">
+            <option value="white">White</option>
+            <option value="lightblue">Light Blue</option>
+            <option value="lightgray">Light Gray</option>
+            <option value="lightgreen">light green</option>
+            <option value="lightpink">Light Pink</option>
+        </select>
+    </div>
+
+    <!-- Welcome Page -->
+    <div id="welcomePage" class="page">
+        <h1>Welcome to Budget Buddy</h1>
+        <p>"Every expense tells a story-log it,analyze it,and take control of your financial journey!"</p>
+        <button onclick="showExpensePage()">Get Started</button>
+    </div>
+
+    <!-- Expense Logger Page -->
+    <div id="expensePage" class="page" style="display: none;">
+        <button class="back-btn" onclick="showWelcomePage()">← Back</button>
+        <h1>Expense Logger</h1>
+        
+        <h2>Current Streak: <span id="streakCount">0</span> 🔥</h2>
+        
+        <div class="input-group">
+            <input type="text" id="expenseName" placeholder="Expense Name">
+            <input type="number" id="expenseAmount" placeholder="Amount">
+            <input type="date" id="expenseDate">
+            <button onclick="addExpense()">Add Expense</button>
+        </div>
+        
+        <h2>Total: $<span id="totalExpense">0</span></h2>
+        <ul id="expenseList"></ul>
+
+        <!-- Weekly Chart -->
+        <h2>Weekly Expense Trend</h2>
+        <canvas id="weeklyChart"></canvas>
+    </div>
+
+    <script src="desire.js"></script>
+</body>
+</html>
