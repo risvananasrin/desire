@@ -12,7 +12,6 @@
 
 ### Hosted Project Link
 https://desire-6o2r.vercel.app/
-
 ### Project Description
 1.Expense logging system
  .user can log expenses daily with name,amount,and date.
