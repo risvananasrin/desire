@@ -69,7 +69,8 @@ For Software:
           Project Description
     the expense logger is a web-based application that helps users track their daily expenses,visualize spending patterns,and maintain a logging streak. it features streak rewards and weekly based graph chart.
           Introduction
-    the expense logger was designed to help individuals keep track of their daily expenses efficiently.The app
+    the expense logger was designed to help individuals keep track of their daily expenses efficiently.The app includes an interactive chart for weekly expenses,and a streak system to encourage regular logging.
+          Browser used-chrome
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
