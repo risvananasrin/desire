@@ -1,14 +1,14 @@
-# [Project Name] 🎯
+# [Expense Tracker] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Desire]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Fathima shaji] - [College Of Engineering Perumon]
+- Member 2: [Archana V] - [College Of Engineering Perumon]
+- Member 3: [Risvana Nasrin C V] - [College Of Engineering Perumon]
 
 ### Hosted Project Link
 https://desire-6o2r.vercel.app/
