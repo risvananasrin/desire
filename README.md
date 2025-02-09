@@ -87,7 +87,6 @@ For Software:
 *Add caption explaining your workflow*
 
 For Hardware:
-
 # Schematic & Circuit
 ![Circuit](Add your circuit diagram here)
 *Add caption explaining connections*
